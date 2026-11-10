@@ -83,7 +83,7 @@ public class switch_case {
             auswahl();
             werteAbfragen();
             System.out.println("das volumen ist "+V);
-            System.out.println("die oberfläche ist " + A);
+            System.out.println("die oberfläche ista " + A);
             stopen();
         }
     }
