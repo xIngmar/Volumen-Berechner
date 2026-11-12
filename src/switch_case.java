@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class switch_case {
     static boolean laufen = true;
     static int auswahl;
@@ -83,7 +82,7 @@ public class switch_case {
             auswahl();
             werteAbfragen();
             System.out.println("das volumen ist "+V);
-            System.out.println("die oberfläche ista " + A);
+            System.out.println("die oberfläche ist " + A);
             stopen();
         }
     }
